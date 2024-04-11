@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> This is a link to Facebook </title>
+    </head>
+    <body>
+        <a href="https:facebook.com" target="_blank">
+            <img src="Kerod's images/facebook.png" >
+        </a>
+    </body>
+</html>
